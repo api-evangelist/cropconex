@@ -64,5 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-CropConex is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by leadout-capital) and added to the network as a stub for full-pipeline profiling.
-- https://cropconex.com/
+CropConex provides a specialized commodity management software platform that serves as the operating system for global agricultural supply chains. It streamlines trading and logistics operations by unifying inventory, contracts, orders, and payments in a shared workspace. Users can source products, create contracts, coordinate logistics, and manage payments with real‑time visibility, reducing manual work and errors. The platform offers features such as inventory tracking, contract management, compliance tools, and collaborative workspaces for internal teams and external partners, aiming to improve efficiency and decision‑making across the ag supply chain.
+
+**Areas:** Agriculture · Supply Chain · CommodityManagement · Software-as-a-Service · Platform
+
+## CropConex on APIs.io
+
+Everything profiled for CropConex is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cropconex/](https://apis.io/providers/cropconex/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [CropConex API](https://apis.io/apis/cropconex/cropconex-api/) — API for CropConex platform, providing endpoints for commodity management, inventory, contracts, and logistics.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cropconex Domain Security](https://apis.io/security/cropconex/cropconex-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://cropconex.com/)
+- [Blog](https://cropconex.com/blog/)
+- [Privacy policy](https://cropconex.com/privacy-policy/)
+- [GitHub](https://github.com/CropConex)
+
+## API Evangelist rating
+
+**Kin Score 9.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 6.5 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 10.5 |
+
+**Agent readiness 1.3** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | documented (partial credit) |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cropconex/](https://apis.io/providers/cropconex/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for CropConex: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cropconex/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
